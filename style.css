@@ -1,0 +1,99 @@
+body{
+    background: black;
+    text-align: center;
+    color: white;
+}
+#picture{
+    width: 300;
+    height: 200;
+}
+#participant_number1{
+    width: 50;
+    height: 50;
+    background: white;
+    color: black;
+}
+#participant_number2{
+    width: 50;
+    height: 50;
+    background: white;
+    color: black;
+}
+#participant_number3{
+    width: 50;
+    height: 50;
+    background: white;
+    color: black;
+}
+#participant_number4{
+    width: 50;
+    height: 50;
+    background: white;
+    color: black;
+}
+.vertical {
+    border-left: 3px solid white;
+    height: 500px;
+    position:absolute;
+    left: 50%;
+}
+#tag1{
+    padding-right: 300;
+    font-size: x-large;
+}
+#tag2{
+    padding-left: 250;
+    font-size: x-large;
+}
+#exercise_1_set_1{
+    margin-right: 450;
+    margin-top: 50;
+}
+#exercise_2_set_1{
+    margin-right: 450;
+    margin-top: 50;
+}
+#exercise_3_set_1{
+    margin-right: 450;
+    margin-top: 50;
+}
+#exercise_4_set_1{
+    margin-right: 450;
+    margin-top: 50;
+}
+#button1{
+    background: white;
+    border-radius: 50%;
+}
+#exercise_1_set_2{
+    margin-right: 450;
+    margin-top: 50;
+}
+#exercise_2_set_2{
+    margin-right: 450;
+    margin-top: 50;
+}
+#exercise_3_set_2{
+    margin-right: 450;
+    margin-top: 50;
+}
+#exercise_4_set_2{
+    margin-right: 450;
+    margin-top: 50;
+}
+#exercise_1_set_3{
+    margin-right: 450;
+    margin-top: 50;
+}
+#exercise_2_set_3{
+    margin-right: 450;
+    margin-top: 50;
+}
+#exercise_3_set_3{
+    margin-right: 450;
+    margin-top: 50;
+}
+#exercise_4_set_3{
+    margin-right: 450;
+    margin-top: 50;
+}
